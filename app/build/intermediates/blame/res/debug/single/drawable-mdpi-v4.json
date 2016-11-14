@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_btn_bg.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/search_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/arrow_right_normal.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/arrow_right_normal.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/widget_btn_normal.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/widget_btn_normal.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/play_progressbar.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/play_progressbar.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_btn_play_normal.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/player_btn_play_normal.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/play_activity_progressbar_green_.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/play_activity_progressbar_green_.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/play_activity_progressbar_.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/play_activity_progressbar_.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/play_progressbar_green.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/play_progressbar_green.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_exit.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/notification_exit.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_btn_pre_normal.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/player_btn_pre_normal.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_btn_next_normal.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/player_btn_next_normal.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/play_page_selected.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/play_page_selected.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/play_bg.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/play_bg.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/player_btn_pause_normal.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/player_btn_pause_normal.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/progress_thumb.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/progress_thumb.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_button.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/search_button.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/cd_center.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/cd_center.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_drawable_left.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/search_drawable_left.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/play_page_unselected.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/play_page_unselected.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/splash.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-mdpi/splash.png"
+    }
+]

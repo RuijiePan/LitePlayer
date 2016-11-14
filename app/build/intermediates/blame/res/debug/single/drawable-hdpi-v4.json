@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_notification_player_play_normal.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-hdpi/btn_notification_player_play_normal.png"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_notification_player_stop_normal.png",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/drawable-hdpi/btn_notification_player_stop_normal.png"
+    }
+]

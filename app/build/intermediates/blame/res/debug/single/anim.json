@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/anim/pop_show_anim.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/anim/pop_show_anim.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/anim/pop_gone_anim.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/anim/pop_gone_anim.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/anim/layer_show_anim.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/anim/layer_show_anim.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/anim/layer_gone_anim.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/anim/layer_gone_anim.xml"
+    }
+]

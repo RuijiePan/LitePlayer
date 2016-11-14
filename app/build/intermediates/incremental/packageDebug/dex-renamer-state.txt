@@ -1,0 +1,7 @@
+#Sat Nov 12 15:37:05 CST 2016
+base.0=/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e6b9e9110030b71009e0d3d14a43674658fad6b5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5c2109f47c477da08764a43f9e9393f91d0c442/classes.dex
+base.1=/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c5c2109f47c477da08764a43f9e9393f91d0c442
+file.0=/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e6b9e9110030b71009e0d3d14a43674658fad6b5/classes.dex

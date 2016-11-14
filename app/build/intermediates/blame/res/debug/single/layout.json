@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/splash_layout.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/splash_layout.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/widget_layout.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/widget_layout.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/download_remote_layout.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/download_remote_layout.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/exit_pop_layout.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/exit_pop_layout.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/play_notification.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/play_notification.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/search_music_layout.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/search_music_layout.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/play_pager_item_2.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/play_pager_item_2.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/play_remote_layout.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/play_remote_layout.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/download_pop_layout.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/download_pop_layout.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/search_result_item.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/search_result_item.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/play_activity_layout.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/play_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/local_music_layout.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/local_music_layout.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/music_list_item.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/music_list_item.xml"
+    },
+    {
+        "merged": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/build/intermediates/res/merged/debug/layout/play_pager_item_1.xml",
+        "source": "/Users/JiePier/AndroidStudioProjects/音乐播放器LitePlayer/app/src/main/res/layout/play_pager_item_1.xml"
+    }
+]
